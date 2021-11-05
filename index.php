@@ -6,7 +6,7 @@
 	<section class="main">
 		<div class="wrapp">
 			<div class="mensaje">
-				<h1>Bienvenidos a centro de!</h1>
+				<h1>Bienvenidos a centro de computo!</h1>
 			</div>
 
 			<div class="articulo">
